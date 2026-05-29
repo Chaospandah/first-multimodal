@@ -1,4 +1,4 @@
-#Multimodal Model
+# Multimodal Model
 
 I built a small multimodal PyTorch model that combines an MNIST image with task context to make a yes/no prediction.
 
